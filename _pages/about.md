@@ -12,20 +12,15 @@ redirect_from:
 Research Interests
 ======
 
-<!--Like many other Jekyll-based GitHub Pages t  Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).-->
+My doctoral research is focused on causal inference, and transferring statistical methods that account for informative monitoring times in longitudinal (observational) databases to a more causal framework. In previous work, I have considered imbalances due to both confounding factors and informative monitoring times, while properly accounting for mediating factors which, when not considered properly, may bias the inference. My main doctoral supervisor is Professor Erica EM Moodie and I am co-supervisors by Professor Robert Platt, in the Dept. of Epidemiology, biostatistics and Occupational Health, at McGill University.
 
-Getting started
+
+Background
 ======
-<!--1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
--->
-  
-<!-- **Markdown generator**
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
--->
+
+Prior to my doctoral studies, I worked for two years as an analyst statistician in the McGill Pharmacoepidemiology Unit at the Lady Davis Research Institute, Jewish General Hospital, Montreal, CA, under the supervision of Dr. Samy Suissa. At the time, this work gave me direct access to plenty of real data (from e.g. electronic health records data and administrative databases), and I learned a great deal about their specifities and their pitfalls. I have become more and more interested in research questions that are of actual interest to the scientific community in epidemiology and pharmacoepidemiology (rather than more theoretical questions). I therefore aim to direct future research in applied areas where there lack good causal inference methods, and am interested in collaborations with health scientists who have interesting and complex questions to answer and wish to collaborate with a statistician (or a team of statisticians).
+
+Besides my doctoral research, in 2019-20, I have had the chance to be involved on a project led by Professor Erica EM Moodie where we developed an optimal adaptive treatment strategy for patients suffering with depression. That rule was developed so as to choose between citalopram and fluoxetine (two commonly prescribed antidepressant drugs) based (or tailored on) the patients' characteristics. The manuscript was accepted for publication in the American Journal of Epidemiology in 2020, and received a great commentary by two scientists psychiatrists. The fact that it was well received, and felt useful, really sparked a desire to do more applied work in which I will answer important health questions. 
+
+ 
  
