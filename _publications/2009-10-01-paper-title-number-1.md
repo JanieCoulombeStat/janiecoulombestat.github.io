@@ -1,3 +1,4 @@
+
 ---
 title: "Weighted regression analysis to correct for informative monitoring times and confounders in longitudinal studies"
 collection: publications
@@ -6,5 +7,5 @@ excerpt: 'We propose two estimators for the marginal effect of a binary interven
 date: 2020-04-25
 venue: 'Biometrics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13285'
-
-citation: '<strong> Janie Coulombe <strong/>, Erica EM Moodie, Robert W Platt. (2020) .&quot; Weighted regression analysis to correct for informative monitoring times and confounders in longitudinal studies .&quot; <i>Biometrics</i>. Forthcoming.'
+citation: '<strong>Janie Coulombe<strong/>, Erica EM Moodie, Robert W Platt. (2020) .&quot; Weighted regression analysis to correct for informative monitoring times and confounders in longitudinal studies .&quot; <i>Biometrics</i>. Forthcoming.'
+---
