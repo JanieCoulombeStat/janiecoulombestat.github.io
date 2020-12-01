@@ -1,0 +1,9 @@
+---
+title: "Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics?"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'We use dynamic weighted survival modelling (DWSurv) as proposed by Simoneau et al. (2020) to develop an optimal adaptive treatment strategy for choosing between two commonly used antidepressant drugs in patients with depression.'
+date: 2020-10-08
+venue: 'American Journal of Epidemiology'
+citation: '<b>Janie Coulombe</b> , Erica EM Moodie, Susan M Shortreed, and Christel Renoux. (2020). &quot; Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics? .&quot; <i> American Journal of Epidemiology</i>. Forthcoming.'
+---
