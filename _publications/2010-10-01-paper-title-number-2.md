@@ -7,6 +7,6 @@ excerpt: 'We use dynamic weighted survival modeling (DWSurv) (Simoneau et al., 2
 date: 2020-10-08
 venue: 'American Journal of Epidemiology'
 
-citation: '<strong>Janie Coulombe</strong>, Erica EM Moodie, Susan M Shortreed, and Christel Renoux. (2020). &quot;Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics?.&quot; <i>American Journal of Epidemiology</i>. Forthcoming.'
+citation: '<strong>Janie Coulombe</strong><b>, Erica EM Moodie, Susan M Shortreed, and Christel Renoux. (2020). &quot;Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics?.&quot; <i>American Journal of Epidemiology</i>. Forthcoming.'
 ---
  
