@@ -1,7 +1,7 @@
 ---
 title: "Weighted regression analysis to correct for informative monitoring times and confounders in longitudinal studies"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-04-25-Weighted-Regression-Analysis-to-Correct-for-Informative-Monitoring-Times-and-Confounders-in-Longitudinal-Studies
 excerpt: 'Causal Inference; We propose two estimators for the marginal effect of a binary intervention on a continuous longitudinal outcome in data subject to informative monitoring times and confounding.'
 date: 2020-04-25
 venue: 'Biometrics'
