@@ -1,5 +1,5 @@
 ---
-title: "Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics"
+title: "Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics?"
 collection: publications
 permalink:  
 excerpt: 'We use dynamic weighted survival modeling (DWSurv) (Simoneau et al., 2020) to develop an optimal adaptive treatment strategy for choosing between two commonly used antidepressant drugs in patients with depression.'
@@ -7,6 +7,6 @@ excerpt: 'We use dynamic weighted survival modeling (DWSurv) (Simoneau et al., 2
 date: 2020-10-08
 venue: 'American Journal of Epidemiology'
 
-citation: 'Janie Coulombe, Erica EM Moodie, Susan M Shortreed, and Christel Renoux. (2020). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Janie Coulombe, Erica EM Moodie, Susan M Shortreed, and Christel Renoux. (2020). &quot;Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics?.&quot; <i>American Journal of Epidemiology</i>. Forthcoming.'
 ---
  
