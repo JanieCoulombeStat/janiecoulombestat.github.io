@@ -11,23 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Université de Montréal, 2012
+* M.S. in Statistics, Université de Montréal, 2015
+* Ph.D in Biostatistics, McGill University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2021: Lecturer
+  * Faculté de Pharmacie, Université de Montréal
+  * Course: Méthodes avancées en inférence causale  (Advanced methods in causal inference)
+  * 24 hours of teaching 
   
-Skills
+* Fall 2019: Lecturer
+  * École de Santé Publique de l'Université de Montréal, Université de Montréal
+  * Course: Introduction à la biostatistique (Biostatistics introduction)
+  * 27 hours of teaching
+  
+  * 2014-2016: Research Assistant, Analyst statistician
+  * Lady Davis Researc Institute (McGill Pharmacoepidemiology Unit), Jewish General Hospital
+  * Duties: Data management, conduct statistical analyses, report and papers writing
+  * Supervisor: Dr. Samy Suissa
+
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -42,18 +48,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently the Chair of the Student and Recent Graduate Committee (SARGC) of the Statistical Society of Canada (SSC) (Term: 2019-2021)
