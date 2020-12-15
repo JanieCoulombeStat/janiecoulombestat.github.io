@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Université de Montréal, 2012
-* M.S. in Statistics, Université de Montréal, 2015
+* B.S. in Mathematics, Université de Montréal 
+* M.S. in Statistics, Université de Montréal 
 * Ph.D in Biostatistics, McGill University, 2021 (expected)
 
 Work experience
