@@ -6,7 +6,7 @@ excerpt: 'We propose two flexible estimators for the marginal effect of a binary
 date: 2020-04-25
 venue: 'Biometrics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13285'
-citation: '<b>Janie Coulombe</b> , Erica EM Moodie, and Robert W Platt. (2020). &quot;Weighted regression analysis to correct for informative monitoring times and confounders in longitudinal studies.&quot; <i>Biometrics</i>. Forthcoming.'
+citation: '<b>Janie Coulombe</b> , Erica EM Moodie, and Robert W Platt. (2020). &quot;Weighted regression analysis to correct for informative monitoring times and confounders in longitudinal studies.&quot; <i>Biometrics</i>. In press.'
 ---
 
 Link to the R code to reproduce simulation studies, or to compute the estimators: <a href="https://github.com/JanieCoulombeStat/CodeR_Weighted-Regression"> Weighted-Regression.R </a>
