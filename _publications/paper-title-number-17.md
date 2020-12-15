@@ -2,7 +2,7 @@
 title: "The risk of major bleeding with low-molecular-weight-heparins for venous thromboembolism in dialysis patients: the Q-VTE Study"
 collection: publications
 permalink: /publication/2016-12-02-paper-17-lmwh
-excerpt: 'Using RAMQ data, we compared the risk of major bleeding among dialysis patients with VTE, between those using low molecular weight heparing as compared to vitamin K antoganists.'
+excerpt: 'Using RAMQ data, we compared the risk of major bleeding among dialysis patients with VTE, between those using low molecular weight heparin as compared to vitamin K antoganists.'
 date: 2016-12-02
 venue: 'Blood, The Journal of the American Society of Hematology'
 paperurl: "https://ashpublications.org/blood/article/128/22/89/98974/The-Risk-of-Major-Bleeding-with-Low-Molecular"
