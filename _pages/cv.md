@@ -28,7 +28,7 @@ Work experience
   * Course: Introduction à la biostatistique (Biostatistics introduction)
   * 27 hours of teaching
   
-* 2014-2016: Research Assistant, Analyst statistician
+* 2014-2016: Research Assistant, Analyst statistician (full time)
   * Centre for Clinical Epidemiology, Lady Davis Research Institute (McGill Pharmacoepidemiology Unit), Jewish General Hospital
   * Duties: Data management, conduct statistical analyses, reports and research papers writing
   * Supervisor: Dr. Samy Suissa
