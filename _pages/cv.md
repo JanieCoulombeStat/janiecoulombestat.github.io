@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics, Université de Montréal 
 * M.S. in Statistics, Université de Montréal (Supervised by Professor Christian Léger)
-* Ph.D in Biostatistics, McGill University, 2021 (expected) (Supervised by Professor Erica E. M. Moodie and Professor Robert W. Platt)
+* Ph.D in Biostatistics, McGill University, May 2021 (expected) (Supervised by Professor Erica E. M. Moodie and Professor Robert W. Platt)
 
 Work experience
 ======
