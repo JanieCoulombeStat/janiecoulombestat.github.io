@@ -44,7 +44,7 @@ Publications
     
 Service and leadership
 ======
-* Currently the Chair of the Student and Recent Graduate Committee (SARGC) of the Statistical Society of Canada (SSC) (Term: 2019-2021)
+* 2019-2021: Chair of the Student and Recent Graduate Committee (SARGC) of the Statistical Society of Canada (SSC) 
 * 2019: Organizing committee of the (Bio)Statistics Research and Career Day, McGill University
 * 2018: Co-Chair of the Canadian Statistics Student Conference of the SSC held in Montreal
 
