@@ -12,7 +12,7 @@ redirect_from:
 News
 ======
 
-I am very happy to announce that I will start a postdoctoral fellowship at McGill University in September 2021, working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health. I will be working on causal inference and dynamic treatment regimes methods. In the Fall 2021, I will be visiting North Carolina State University for 6 months as a postdoctoral visitor. 
+I am very happy to announce that I will start a postdoctoral fellowship at McGill University in September 2021, working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health. I will be working on causal inference and dynamic treatment regimes methods. In the Fall 2021, I will be visiting North Carolina State University for 6 months as a research scholar. 
  
 Research Interests
 ======
@@ -23,7 +23,7 @@ My doctoral research was focused on causal inference, and the development (or tr
 
 We also <a href="https://arxiv.org/pdf/2106.14364.pdf">extended that work</a> to the setting where the covariate process affecting visit times is endogenous; endogeneity may create long-term dependencies between the outcome and the monitoring processes (work invited for revision).
 
-In a more recent manuscript, we extended that work to the scenario where the exposure is continuous, and the outcome is ordinal (work invited for revision). In that setting, a generalized inverse probability of treatment weight was used to account for confounding, and the proportional odds model was used to model the association between the exposure and the outcome. The methodology was applied to assess the marginal effect of an increase in the time spent playing video games on suicide attempts, in the Add Health study in the US.
+In a more recent manuscript, we extended that work to the scenario where the exposure is continuous, and the outcome is ordinal (work recently accepted for publication in Statistics in Medicine). In that setting, a generalized inverse probability of treatment weight was used to account for confounding, and the proportional odds model was used to model the association between the exposure and the outcome. The methodology was applied to assess the marginal effect of an increase in the time spent playing video games on suicide attempts, in the Add Health study in the US.
 
 Other broad interests are in semiparametric theory (multiply robust estimators), optimal adaptive treatment strategies, and stochastic processes/multistate model theory for causal inference. 
 
