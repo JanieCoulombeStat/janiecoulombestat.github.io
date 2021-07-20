@@ -8,5 +8,5 @@ venue: 'American Journal of Epidemiology'
 
 paperurl: 'https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaa260/6028714?redirectedFrom=fulltext'
 
-citation: '<b>Janie Coulombe</b> , Erica EM Moodie, Susan M Shortreed, and Christel Renoux. (2020). &quot; Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics? .&quot; <i> American Journal of Epidemiology</i>. In press.'
+citation: '<b>Janie Coulombe</b> , Erica EM Moodie, Susan M Shortreed, and Christel Renoux. (2020). &quot; Can the risk of severe depression-related outcomes be reduced by tailoring the antidepressant therapy to patient characteristics? .&quot; <i> American Journal of Epidemiology</i>. 190(7), pp. 1210-1219.'
 ---
