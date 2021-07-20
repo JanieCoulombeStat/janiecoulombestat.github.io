@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and training
 ======
 * B.S. in Mathematics, Université de Montréal 
 * M.S. in Statistics, Université de Montréal (Supervised by Professor Christian Léger)
 * Ph.D in Biostatistics, McGill University (Supervised by Professor Erica E. M. Moodie and Professor Robert W. Platt)
-* Postodoctoral researcher, McGill University (June 2021-onwards) and visiting scholar at North Carolina State University (September 2021-February 2022)
+* Postdoctoral researcher, McGill University (June 2021-onwards) and visiting scholar at North Carolina State University (September 2021-February 2022)
 
 Work experience
 ======
