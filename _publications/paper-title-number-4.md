@@ -7,6 +7,6 @@ date: 2020-12-04
 venue: 'American Journal of Epidemiology'
 paperurl: "https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaa262/6028712"
 
-citation: '<b>Janie Coulombe</b> , Erica EM Moodie, Susan M. Shortreed, and Christel Renoux. (2020). &quot;Response to: Baby Steps to a Learning Mental Health Care System: Can we do the Work?&quot; <i>American Journal of Epidemiology</i>. In press.'
+citation: '<b>Janie Coulombe</b> , Erica EM Moodie, Susan M. Shortreed, and Christel Renoux. (2020). &quot;Response to: Baby Steps to a Learning Mental Health Care System: Can we do the Work?&quot; <i>American Journal of Epidemiology</i>. 190(7), pp. 1223-1224.'
 ---
  
