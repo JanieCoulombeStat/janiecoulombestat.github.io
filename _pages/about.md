@@ -12,7 +12,10 @@ redirect_from:
 News
 ======
 
-I am very happy to announce that I will start a postdoctoral fellowship at McGill University in September 2021, working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health. I will be working on causal inference and dynamic treatment regimes methods. In the Fall 2021, I will be visiting North Carolina State University for 6 months as a research scholar. 
+I am happy to announce that I started a postdoctoral fellowship at McGill University in September 2021, working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health. \\
+
+In the Fall 2021, I was supposed to visit North Carolina State University (NCSU) for 6 months as a research scholar and to work in the Department of Statistics with Professor Marie Davidian. Due to the covid19 pandemic, I will be collaborating virtually with Professor Davidian. I am very grateful for this opportunity. \\
+
  
 Research Interests
 ======
