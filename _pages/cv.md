@@ -16,7 +16,7 @@ Education and training
 * Ph.D in Biostatistics, McGill University (Supervised by Professor Erica E. M. Moodie and Professor Robert W. Platt)
 * Postdoctoral researcher, McGill University (June 2021-onwards) and visiting scholar at North Carolina State University (September 2021-February 2022)
 
-Work experience
+Work experience (selected)
 ======
 
 * Winter 2021: Lecturer
@@ -48,4 +48,5 @@ Service and leadership
 * 2019-2021: Chair of the Student and Recent Graduate Committee (SARGC) of the Statistical Society of Canada (SSC) (Mandate ended on June 30, 2021) 
 * 2019: Organizing committee of the (Bio)Statistics Research and Career Day, McGill University
 * 2018: Co-Chair of the Canadian Statistics Student Conference of the SSC held in Montreal
+* 2013-2021: Involved with the Student and Recent Graduate committee of the SSC (translation work, chairing, etc.).
 
