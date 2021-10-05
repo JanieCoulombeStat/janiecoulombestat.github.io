@@ -32,7 +32,7 @@ Other broad interests are in semiparametric theory (multiply robust estimators),
 
 Besides my doctoral research, in 2019-2020, I have had the chance to be involved on a <a href="https://janiecoulombestat.github.io/publication/2020-10-08-paper-2-ADDrugs">project</a> in which we developed an optimal adaptive treatment strategy for patients suffering with depression. That rule was developed with the aim to choose between citalopram and fluoxetine (two commonly prescribed antidepressant drugs) based on patients' characteristics. See the <a href="https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaa261/6028713?searchresult=1">commentary</a> by Drs Shiner and Watts and our <a href="https://janiecoulombestat.github.io/publication/2020-12-04-paper-3-Response-AD">response</a>, as well as a link to the  <a href="https://reporter.mcgill.ca/individual-patients-arent-average-patients-personalized-approaches-to-depression/">McGill Reporter</a> short interview.  
 
-Please feel free to touch base if you would be interested in collaborating on a research project!
+Please feel free to touch base if you would be interested in a collaboration!
 
 Background
 ======
