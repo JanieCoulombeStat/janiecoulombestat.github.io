@@ -35,7 +35,7 @@ Work experience (selected)
   * Supervisor: Dr. Samy Suissa
  
 
-Publications
+Publications (chronological order)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
