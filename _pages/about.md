@@ -26,7 +26,7 @@ My doctoral research was focused on causal inference, and the development (or tr
 
 We also <a href="https://arxiv.org/pdf/2106.14364.pdf">extended that work</a> to the setting where the covariate process affecting visit times is endogenous; endogeneity may create long-term dependencies between the outcome and the monitoring processes (work invited for revision).
 
-In a more recent manuscript, we extended that work to the scenario where the exposure is continuous, and the outcome is ordinal (work recently accepted for publication in Statistics in Medicine). In that setting, a generalized inverse probability of treatment weight was used to account for confounding, and the proportional odds model was used to model the association between the exposure and the outcome. The methodology was applied to assess the marginal effect of an increase in the time spent playing video games on suicide attempts, in the Add Health study in the US.
+In a more recent <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9151">manuscript</a>, we extended that work to the scenario where the exposure is continuous, and the outcome is ordinal. In that setting, a generalized inverse probability of treatment weight was used to account for confounding, and the proportional odds model was used to model the association between the exposure and the outcome. The methodology was applied to assess the marginal effect of an increase in the time spent playing video games on suicide attempts, in the Add Health study in the US.
 
 Other broad interests are in semiparametric theory (multiply robust estimators), optimal adaptive treatment strategies, and stochastic processes/multistate model theory for causal inference. 
 
