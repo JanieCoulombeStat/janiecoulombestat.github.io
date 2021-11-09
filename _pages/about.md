@@ -14,7 +14,7 @@ News
 
 I am happy to announce that I started a postdoctoral fellowship at McGill University in September 2021, working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health.  
 
-In the Fall 2021, I was supposed to visit North Carolina State University (NCSU) for 6 months as a research scholar and to work in the Department of Statistics with Professor Marie Davidian. Due to the covid19 pandemic, McGill University currently bans non-essential travels, and Professor Davidian and I will be collaborating virtually. I am very excited about this opportunity.  
+In the Fall 2021, I was supposed to visit North Carolina State University (NCSU) for 6 months as a research scholar and to work in the Department of Statistics under the supervision of Professor Marie Davidian. Due to the covid19 pandemic, McGill University banned non-essential travels for a few months, and my collaboration turned to virtual. I am very please to have this opportunity.  
 
  
 Research Interests
@@ -24,7 +24,7 @@ My doctoral research was focused on causal inference, and the development (or tr
 
 <a href="https://janiecoulombestat.github.io/publication/2020-04-25-paper-1-Weighted-Regression">In previous work</a>, we considered (biasing) imbalances in the data due to both confounding factors and outcome-dependent monitoring times when making causal inference on the marginal effect of an intervention on a continuous, longitudinal outcome. 
 
-We also <a href="https://arxiv.org/pdf/2106.14364.pdf">extended that work</a> to the setting where the covariate process affecting visit times is endogenous; endogeneity may create long-term dependencies between the outcome and the monitoring processes (work invited for revision).
+We also <a href="https://arxiv.org/pdf/2106.14364.pdf">extended that work</a> to the setting where the covariate process affecting visit times is endogenous; endogeneity may create long-term dependencies between the outcome and the monitoring processes (work recently accepted for publication in Annals of Applied Statistics).
 
 In a more recent <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9151">manuscript</a>, we extended that work to the scenario where the exposure is continuous, and the outcome is ordinal. In that setting, a generalized inverse probability of treatment weight was used to account for confounding, and the proportional odds model was used to model the association between the exposure and the outcome. The methodology was applied to assess the marginal effect of an increase in the time spent playing video games on suicide attempts, in the Add Health study in the US.
 
