@@ -14,7 +14,7 @@ News
 
 I am happy to announce that I started a postdoctoral fellowship at McGill University in September 2021, working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health.  
 
-In the Fall 2021, I was supposed to visit North Carolina State University (NCSU) for 6 months as a research scholar and to work in the Department of Statistics under the supervision of Professor Marie Davidian. Due to the covid19 pandemic, McGill University banned non-essential travels for a few months, and my collaboration turned to virtual. I am very please to have this opportunity.  
+In the Fall 2021, I was supposed to visit North Carolina State University (NCSU) for 6 months as a research scholar and to work in the Department of Statistics under the supervision of Professor Marie Davidian. Due to the covid19 pandemic, McGill University banned non-essential travels for a few months, and my collaboration turned to virtual. I am very pleased to have this opportunity.  
 
  
 Research Interests
