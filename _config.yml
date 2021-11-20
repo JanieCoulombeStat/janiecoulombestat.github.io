@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "janiecoulombestat.github.io "
 title_separator          : "-"
-name                     : &name "Janie Coulombe"
+name                     : &name "Janie Coulombe, Ph.D."
 description              : &description "MSc statistics/ PhD biostatistics."
 url                      : https://janiecoulombestat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Janie Coulombe"
   avatar           : "Janie Coulombe cut.jpg"
-  bio              : "PhD biostatistics, McGill University. MSc statistics, Université de Montréal."
+  bio              : "Postdoctoral researcher, McGill University."
   location         : "Montreal, CA"
   employer         :
   pubmed           : 
