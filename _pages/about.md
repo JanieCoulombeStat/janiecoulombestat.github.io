@@ -16,7 +16,7 @@ Spring 2022
 
 I am thrilled to announce that I will start a new position of Assistant Professor (Professeure Adjointe) at the Université de Montréal in June of this year, working in the Département de mathématiques et statistique de l'Université de Montréal. 
 
-I am also happy to announce that I am the winner of the Pierre Robillard Award 2022, an Award given by the Statistical Society of Canada that "recognizes the best PhD thesis defended at a Canadian university in a given year and written in the fields covered by The Canadian Journal of Statistics" (https://ssc.ca/en/award/pierre-robillard-award). I will give a talk entitled "Causal Inference on the Marginal Effect of an Exposure: Addressing Biases due to Covariate-Driven Monitoring Times and Confounders" during the SSC Annual Meeting 2022. Thanks to everyone who supported me in the past few years, and in particular, to my PhD supervisors, Dr. Moodie and Dr. Platt.
+I am also happy and honored to have received the Pierre Robillard Award 2022, an Award given by the Statistical Society of Canada that "recognizes the best PhD thesis defended at a Canadian university in a given year and written in the fields covered by The Canadian Journal of Statistics" (https://ssc.ca/en/award/pierre-robillard-award). I will give a talk entitled "Causal Inference on the Marginal Effect of an Exposure: Addressing Biases due to Covariate-Driven Monitoring Times and Confounders" during the SSC Annual Meeting 2022. Thanks to everyone who supported me in the past few years, and in particular, to my PhD supervisors, Dr. Moodie and Dr. Platt.
 
 Fall 2021
 
