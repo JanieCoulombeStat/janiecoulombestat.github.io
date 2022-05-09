@@ -12,7 +12,15 @@ redirect_from:
 News
 ======
 
-I am happy to announce that I started a postdoctoral fellowship at McGill University in September 2021, working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health.  
+Spring 2022
+
+I am thrilled to announce that I will start a new position of Assistant Professor (Professeure Adjointe) at the Université de Montréal in June of this year, working in the Département de mathématiques et statistique de l'Université de Montréal. 
+
+I am also happy to announce that I am the winner of the Pierre Robillard Award 2022, an Award given by the Statistical Society of Canada that "recognizes the best PhD thesis defended at a Canadian university in a given year and written in the fields covered by The Canadian Journal of Statistics" (https://ssc.ca/en/award/pierre-robillard-award). I will give a talk entitled "Causal Inference on the Marginal Effect of an Exposure: Addressing Biases due to Covariate-Driven Monitoring Times and Confounders" during the SSC Annual Meeting 2022. Thanks to everyone who supported me in the past few years, and in particular, to my PhD supervisors, Dr. Moodie and Dr. Platt.
+
+Fall 2021
+
+In September 2021, I started a postdoctoral fellowship at McGill University working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health.  
 
 In the Fall 2021, I was supposed to visit North Carolina State University (NCSU) for 6 months as a research scholar and to work in the Department of Statistics under the supervision of Professor Marie Davidian. Due to the covid19 pandemic, McGill University banned non-essential travels for a few months, and my collaboration turned to virtual. I am very pleased to have this opportunity.  
 
@@ -20,13 +28,9 @@ In the Fall 2021, I was supposed to visit North Carolina State University (NCSU)
 Research Interests
 ======
 
-My doctoral research was focused on causal inference, and the development (or transfer to the causal framework) of statistical methods that account for covariate-dependent monitoring times. I recently defended my doctoral thesis in biostatistics at McGill University - I had the privilege to be supervised by <a href="https://www.ericamoodie.com/">Professor Erica EM Moodie</a> and co-supervised by <a href="https://www.mcgill.ca/epi-biostat-occh/robert-william-platt">Professor Robert Platt</a> during my doctoral studies. 
+My doctoral research was focused on causal inference, and the development (or transfer to the causal framework) of statistical methods that account for covariate-dependent monitoring times. In May 2021, I defended my doctoral thesis in biostatistics at McGill University - I had the privilege to be supervised by <a href="https://www.ericamoodie.com/">Professor Erica EM Moodie</a> and co-supervised by <a href="https://www.mcgill.ca/epi-biostat-occh/robert-william-platt">Professor Robert Platt</a> during my doctoral studies. 
 
-<a href="https://janiecoulombestat.github.io/publication/2020-04-25-paper-1-Weighted-Regression">In previous work</a>, we considered (biasing) imbalances in the data due to both confounding factors and outcome-dependent monitoring times when making causal inference on the marginal effect of an intervention on a continuous, longitudinal outcome. 
-
-We also <a href="https://arxiv.org/pdf/2106.14364.pdf">extended that work</a> to the setting where the covariate process affecting visit times is endogenous; endogeneity may create long-term dependencies between the outcome and the monitoring processes (work recently accepted for publication in Annals of Applied Statistics).
-
-In a more recent <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9151">manuscript</a>, we extended that work to the scenario where the exposure is continuous, and the outcome is ordinal. In that setting, a generalized inverse probability of treatment weight was used to account for confounding, and the proportional odds model was used to model the association between the exposure and the outcome. The methodology was applied to assess the marginal effect of an increase in the time spent playing video games on suicide attempts, in the Add Health study in the US.
+<a href="https://janiecoulombestat.github.io/publication/2020-04-25-paper-1-Weighted-Regression">In previous work</a>, we considered (biasing) imbalances in the data due to both confounding factors and outcome-dependent monitoring times when making causal inference on the marginal effect of an intervention on a continuous, longitudinal outcome. We also <a href="https://arxiv.org/pdf/2106.14364.pdf">extended that work</a> to the setting where the covariate process affecting visit times is endogenous; endogeneity may create long-term dependencies between the outcome and the monitoring processes (in press, work accepted for publication in Annals of Applied Statistics). In a more recent <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9151">manuscript</a>, we extended that work to the scenario where the exposure is continuous, and the outcome is ordinal. In that setting, a generalized inverse probability of treatment weight was used to account for confounding, and the proportional odds model was used to model the association between the exposure and the outcome. The methodology was applied to assess the marginal effect of an increase in the time spent playing video games on suicide attempts, in the Add Health study in the US.
 
 Other broad interests are in semiparametric theory (multiply robust estimators), optimal adaptive treatment strategies, and stochastic processes/multistate model theory for causal inference. 
 
@@ -37,7 +41,7 @@ More details on previous publications can be found on my <a href="https://schola
 Background
 ======
 
-I hold a Bachelor's degree in Mathematics (Université de Montréal) and a Master's degree in Statistics (Université de Montréal).
+I hold a Bachelor's degree in Mathematics (Université de Montréal), a Master's degree in Statistics (Université de Montréal), and a Doctorate in Biostatistics (McGill University).
 
 Prior to my doctoral studies, I worked for two years as an analyst statistician in the McGill Pharmacoepidemiology Unit at the Lady Davis Research Institute, Jewish General Hospital, Montreal, CA, under the supervision of <a href="http://www.ladydavis.ca/fr/samysuissa">Dr. Samy Suissa</a>. There, I worked extensively with observational data (from e.g. electronic health records data and administrative databases) and I learned a great deal through conducting complex data analyses and collaborating with world-renowned experts in pharmacoepidemiology. Following this, I have become more and more interested in research questions that are of interest to the scientific community of epidemiologists and pharmacoepidemiologists. 
  
