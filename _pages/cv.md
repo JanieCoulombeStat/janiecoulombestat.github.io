@@ -22,12 +22,12 @@ Work experience (selected)
 
 * Winter 2022: Lecturer
   * Department of Epidemiology, Biostatistics and Occupational Health, McGill University
-  * Course: Epidemiology: Regression Models BIOS602) 
+  * Course: Epidemiology: Regression Models (BIOS602) 
   * 52 hours of teaching 
 
-* Fall-Winter 2021-2021: Postdoctoral researcher
+* Fall 2021-Winter 2022: Postdoctoral researcher
   * Department of Epidemiology, Biostatistics and Occupational Health, McGill University
-  * Main collaborator: Dr. Erica E. M. Moodie.  
+  * Main collaborator/supervisor: Dr. Erica E. M. Moodie.  
 
 * Winter 2021: Lecturer
   * Faculté de Pharmacie, Université de Montréal
