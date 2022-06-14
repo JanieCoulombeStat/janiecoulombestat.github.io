@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Janie Coulombe, Ph.D."
   avatar           : "Janie Coulombe cut.jpg"
-  bio              : "Postdoctoral researcher, McGill University."
+  bio              : "Assistant Professor, Université de Montréal."
   location         : "Montreal, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=UmVoZQwAAAAJ&hl=fr&oi=ao"
-  email            : "janie.coulombe@mail.mcgill.ca"
+  email            : "janie.coulombe@umontreal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
