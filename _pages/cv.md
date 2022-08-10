@@ -20,6 +20,9 @@ Education and training
 Work experience (selected)
 ======
 
+* June 2022- : Assistant Professoe
+  * Department of Mathematics and Statistics, Université de Montréal
+
 * Winter 2022: Lecturer
   * Department of Epidemiology, Biostatistics and Occupational Health, McGill University
   * Course: Epidemiology: Regression Models (BIOS602) 
