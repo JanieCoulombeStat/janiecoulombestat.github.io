@@ -60,6 +60,7 @@ Publications (chronological order)
     
 Service and leadership
 ======
+* 2022-2023: Pierre Robillard Award Committee (Statistical Society of Canada)
 * 2019-2021: Chair of the Student and Recent Graduate Committee (SARGC) of the Statistical Society of Canada (SSC) (Mandate ended on June 30, 2021) 
 * 2019: Organizing committee of the (Bio)Statistics Research and Career Day, McGill University
 * 2018: Co-Chair of the Canadian Statistics Student Conference of the SSC held in Montreal
