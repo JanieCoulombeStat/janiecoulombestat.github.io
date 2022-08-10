@@ -15,13 +15,15 @@ Education and training
 * M.S. in Statistics, Université de Montréal (Supervised by Professor Christian Léger)
 * Ph.D in Biostatistics, McGill University (Supervised by Professor Erica E. M. Moodie and Professor Robert W. Platt)
 * Postdoctoral researcher, McGill University (June 2021-May 2022) and (virtual) visiting scholar at North Carolina State University (September 2021-February 2022)
-* Assistant Professor, Département de mathématiques et statistique, Université de Montréal (June 2022 - )
  
 Work experience (selected)
 ======
 
-* June 2022- : Assistant Professoe
+* June 2022- : Assistant Professor
   * Department of Mathematics and Statistics, Université de Montréal
+  * Courses taught:
+  * Fall 2022: STT1700
+  * Winter 2023: STT3781
 
 * Winter 2022: Lecturer
   * Department of Epidemiology, Biostatistics and Occupational Health, McGill University
