@@ -51,7 +51,7 @@ Work experience (selected)
  
 Awards
 ======
-* Award for excellence in teaching Biostatistics (2021-2022), Given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS), McGill University.
+* Award for excellence in teaching Biostatistics (2022), Given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS), McGill University.
 * Pierre Robillard Award (2022), Statistical Society of Canada. Best PhD thesis in a statistics-related field in Canada that year.
 * McGill MedStar Award (2021), McGill University. A research excellence award.
 * Outstanding Graduate Student Peer Mentor Award (2021), McGill University. 
