@@ -12,6 +12,10 @@ redirect_from:
 News
 ======
 
+Fall 2022
+
+I am so thankful for recently receiving the 2021-2022 Award for Excellence in Teaching Biostatistics at McGill University, an Award voted by the students in the Department of Epidemiology, Biostatistics and Occupational Health and given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS). I thank EBOSS for this Award, and the students with whom I had the chance to work as part of the course BIOS602 Epidemiology: Regression Models. I had a great time teaching this course and this makes me even more excited to pursue my career as a Professor! I also want to thank Dr. Erica Moodie who kindly shared her course notes with me for BIOS602.
+
 Spring 2022
 
 I am thrilled to announce that I will start a new position of Assistant Professor (Professeure Adjointe) at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in June 2022, working in the <a href="https://dms.umontreal.ca/fr/">Département de mathématiques et statistique</a>. 
