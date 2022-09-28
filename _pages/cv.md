@@ -49,7 +49,16 @@ Work experience (selected)
   * Duties: Data management, conduct statistical analyses, reports and research papers writing
   * Supervisor: Dr. Samy Suissa
  
-
+Awards
+======
+* Award for excellence in teaching Biostatistics (2021-2022), Given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS), McGill University.
+* Pierre Robillard Award (2022), Statistical Society of Canada. Best PhD thesis in a statistics-related field in Canada that year.
+* McGill MedStar Award (2021), McGill University. A research excellence award.
+* Outstanding Graduate Student Peer Mentor Award (2021), McGill University. 
+* Esther Cushing Student Award (2017), McGill University. 
+* Winning team of the case study competition (2013 and 2017), Statistical Society of Canada.
+ 
+ 
 Publications (chronological order)
 ======
   <ul>{% for post in site.publications %}
