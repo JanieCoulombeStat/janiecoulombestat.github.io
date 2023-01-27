@@ -6,6 +6,4 @@ excerpt: 'We tackle estimation of the marginal effect of a binary exposure in se
 date: 2021-11-09
 venue: 'Annals of Applied Statistics'
  
-
-citation: '<b>Janie Coulombe</b> , Erica EM Moodie, Robert W Platt, and Christel Renoux. (2021). &quot; Estimation of the Marginal Effect of Antidepressants on Body Mass Index under Confounding and Endogenous Covariate-Driven Monitoring Times .&quot; <i> Annals of Applied Statistics </i>, forthcoming (accepted on Nov. 9, 2021).'
 ---
