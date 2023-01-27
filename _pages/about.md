@@ -14,7 +14,7 @@ News
 
 Fall 2022
 
-When I was a postdoc at McGill University, I had the chance to teach the course BIOS602 Epidemiology:Regression models to a wonderful group of students in biostatistics. I am so thankful and glad for recently receiving the 2021-2022 Award for Excellence in Teaching Biostatistics at McGill University, an Award voted by the students in the Department of Epidemiology, Biostatistics and Occupational Health and given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS). I thank EBOSS for this Award, and the students with whom I had the chance to work as part of the course BIOS602. I had a great time teaching this course and this makes me even more excited to pursue my career as a Professor! I also want to thank Dr. Erica Moodie who kindly shared her course notes with me for BIOS602.
+So happy for recently receiving the 2021-2022 Award for Excellence in Teaching Biostatistics at McGill University, an Award voted by the students in the Department of Epidemiology, Biostatistics and Occupational Health and given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS). I thank EBOSS for this Award, and the students with whom I had the chance to work as part of the course BIOS602. I had a great time teaching this course and this makes me even more excited to pursue my career as a Professor! I also want to thank Dr. Erica Moodie who kindly shared her course notes with me for BIOS602, the course for which I won this Award.
 
 Spring 2022
 
