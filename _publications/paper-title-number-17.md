@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-12-02-paper-17-lmwh
 
 date: 2016-12-02
-venue: 'Blood, The Journal of the American Society of Hematology, Adi J Klil-Drori, <b>Janie Coulombe</b>, Sharon J Nessim, Vicky Tagalakis'
+venue: '<b>Blood, The Journal of the American Society of Hematology</b>. Adi J Klil-Drori, <b>Janie Coulombe</b>, Sharon J Nessim, Vicky Tagalakis'
 paperurl: "https://ashpublications.org/blood/article/128/22/89/98974/The-Risk-of-Major-Bleeding-with-Low-Molecular"
  
 ---
