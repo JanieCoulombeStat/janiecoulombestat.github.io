@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-09-paper-5-ICBFIT
  
 date: 2018-09-01
-venue: 'Cancer Medicine, Celalettin Ustun, Elizabeth Morgan, Erica E. M. Moodie, et al'
+venue: '<b>Cancer Medicine</b>. Celalettin Ustun, Elizabeth Morgan, Erica E. M. Moodie, <b>et al</b>'
 paperurl: "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cam4.1733"
  
 ---
