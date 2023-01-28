@@ -3,6 +3,6 @@ title: "Estimation of the Marginal Effect of Antidepressants on Body Mass Index 
 collection: publications
 permalink: /publication/2021-06-28-paper-00-Endogenous
 date: 2021-11-09
-venue: 'Annals of Applied Statistics. Janie Coulombe, Erica EM Moodie, Robert W Platt, and Christel Renoux'
+venue: '<b>Annals of Applied Statistics</b>. <b>Janie Coulombe</b> , Erica EM Moodie, Robert W Platt, and Christel Renoux'
  
 ---
