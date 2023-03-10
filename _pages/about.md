@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My github page <a href="[https://www.youtube.com/watch?v=V0G6iSJHFwc](https://github.com/JanieCoulombeStat)">(JanieCoulombe Stat)</a> contains more ressources on R codes, etc.
+My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more ressources on R codes, etc.
 
 News
 ======
