@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my GitHub academic webpage!"
+title: "Welcome!"
 excerpt: " "
 author_profile: true
 redirect_from: 
