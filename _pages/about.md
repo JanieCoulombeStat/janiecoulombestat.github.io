@@ -16,7 +16,7 @@ Winter 2023
 
 Links to two videos FYI:
 
-1. A presentation I gave for the Club Math at Université de Montréal on <a href="[https://www.ericamoodie.com/](https://www.youtube.com/watch?v=V0G6iSJHFwc)"> an Introduction to causal inference</a> .
+1. A presentation I gave for the Club Math at Université de Montréal on <a href="https://www.youtube.com/watch?v=V0G6iSJHFwc"> an Introduction to causal inference</a> .
 
 2. A presentation I gave at CRCHU Quebec on <a href="https://www.youtube.com/watch?v=rSsb2NREEyE"> causal diagrams</a> .      
 
