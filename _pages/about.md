@@ -12,15 +12,23 @@ redirect_from:
 News
 ======
 
+Winter 2023
+
+Links to two videos FYI:
+
+1. A presentation I gave for the Club Math at Université de Montréal on <a href="[https://www.ericamoodie.com/](https://www.youtube.com/watch?v=V0G6iSJHFwc)"> an Introduction to causal inference</a> .
+
+2. A presentation I gave at CRCHU Quebec on <a href="https://www.youtube.com/watch?v=rSsb2NREEyE"> causal diagrams</a> .      
+
 Fall 2022
 
-So happy for recently receiving the 2021-2022 Award for Excellence in Teaching Biostatistics at McGill University, an Award voted by the students in the Department of Epidemiology, Biostatistics and Occupational Health and given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS). I thank EBOSS for this Award, and the students with whom I had the chance to work as part of the course BIOS602. I had a great time teaching this course and this makes me even more excited to pursue my career as a Professor! I also want to thank Dr. Erica Moodie who kindly shared her course notes with me for BIOS602, the course for which I won this Award.
+I recently received the 2021-2022 Award for Excellence in Teaching Biostatistics at McGill University, an Award voted by the students in the Department of Epidemiology, Biostatistics and Occupational Health and given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS). I am super grateful for that! Thanks to EBOSS and Dr. Erica Moodie who shared course notes with me for the course BIOS602.
 
 Spring 2022
 
-I am thrilled to announce that I will start a new position of Assistant Professor (Professeure Adjointe) at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in June 2022, working in the <a href="https://dms.umontreal.ca/fr/">Département de mathématiques et statistique</a>. 
+I will start a new position of Assistant Professor (Professeure Adjointe) at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in June 2022, working in the <a href="https://dms.umontreal.ca/fr/">Département de mathématiques et statistique</a>. 
 
-I am also happy and honored to have received the Pierre Robillard Award 2022, an Award given by the Statistical Society of Canada that "recognizes the best PhD thesis defended at a Canadian university in a given year and written in the fields covered by The Canadian Journal of Statistics" (https://ssc.ca/en/award/pierre-robillard-award). I will give a talk entitled "Causal Inference on the Marginal Effect of an Exposure: Addressing Biases due to Covariate-Driven Monitoring Times and Confounders" during the SSC Annual Meeting 2022. Thanks to everyone who supported me in the past few years and made this possible, and in particular, to my PhD supervisors, Dr. Moodie and Dr. Platt.
+I recently received the Pierre Robillard Award 2022, an Award given by the Statistical Society of Canada that "recognizes the best PhD thesis defended at a Canadian university in a given year and written in the fields covered by The Canadian Journal of Statistics" (https://ssc.ca/en/award/pierre-robillard-award). 
 
 Fall 2021
 
