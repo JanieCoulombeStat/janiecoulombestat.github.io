@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+My github page <a href="[https://www.youtube.com/watch?v=V0G6iSJHFwc](https://github.com/JanieCoulombeStat)">(JanieCoulombe Stat)</a> contains more ressources on R codes, etc.
 
 News
 ======
 
 Winter 2023
 
-Links to two videos FYI:
+Links to two videos of presentations I've given recently:
 
-1. A presentation I gave for the Club Math at Université de Montréal on <a href="https://www.youtube.com/watch?v=V0G6iSJHFwc"> an Introduction to causal inference</a> .
+1. For the Club Math at Université de Montréal on <a href="https://www.youtube.com/watch?v=V0G6iSJHFwc"> an Introduction to causal inference</a> .
 
-2. A presentation I gave at CRCHU Quebec on <a href="https://www.youtube.com/watch?v=rSsb2NREEyE"> causal diagrams</a> .      
+2. At CRCHU Quebec on <a href="https://www.youtube.com/watch?v=rSsb2NREEyE"> causal diagrams</a> .      
 
 Fall 2022
 
