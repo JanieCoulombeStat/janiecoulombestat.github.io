@@ -8,5 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
  
+{% for post in site.portfolio reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
