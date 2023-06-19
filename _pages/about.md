@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more ressources on R codes, etc.
+My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more ressources on R codes and other material.
 
 News
 ======
@@ -27,7 +27,7 @@ I recently received the 2021-2022 Award for Excellence in Teaching Biostatistics
 
 Spring 2022
 
-I will start a new position of Assistant Professor (Professeure Adjointe) at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in June 2022, working in the <a href="https://dms.umontreal.ca/fr/">Département de mathématiques et statistique</a>. 
+I am so thrilled to announce that I will start a new position of Assistant Professor (Professeure Adjointe) at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in June 2022, working in the <a href="https://dms.umontreal.ca/fr/">Département de mathématiques et statistique</a>. 
 
 I recently received the Pierre Robillard Award 2022, an Award given by the Statistical Society of Canada that "recognizes the best PhD thesis defended at a Canadian university in a given year and written in the fields covered by The Canadian Journal of Statistics" (https://ssc.ca/en/award/pierre-robillard-award). 
 
