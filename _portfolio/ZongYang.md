@@ -1,6 +1,6 @@
 ---
 title: "Zong Yang Yu"
-excerpt: "Étudiant au premier cycle"
+excerpt: "Undergraduate student in statistics."
 collection: portfolio
 ---
 
