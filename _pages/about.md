@@ -54,7 +54,7 @@ More details on previous publications can be found on my <a href="https://schola
 Background
 ======
 
-I hold a Bachelor's degree in Mathematics (Université de Montréal), a Master's degree in Statistics (Université de Montréal), and a Doctorate in Biostatistics (McGill University).
+I hold a Bachelor's degree in Mathematics (Université de Montréal), a Master's degree in Statistics (Université de Montréal), and a Doctorate in Biostatistics (McGill University). I completed a one-year postdoc at McGill University before obtaining a position at Université de Montréal. 
 
 Prior to my doctoral studies, I worked for two years as an analyst statistician in the McGill Pharmacoepidemiology Unit at the Lady Davis Research Institute, Jewish General Hospital, Montreal, CA, under the supervision of <a href="http://www.ladydavis.ca/fr/samysuissa">Dr. Samy Suissa</a>. There, I worked extensively with observational data (from e.g. electronic health records data and administrative databases) and I learned a great deal through conducting complex data analyses and collaborating with world-renowned experts in pharmacoepidemiology. Following this, I have become more and more interested in research questions that are of interest to the scientific community of epidemiologists and pharmacoepidemiologists. 
  
