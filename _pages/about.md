@@ -13,6 +13,10 @@ My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Sta
 News
 ======
 
+Fall 2023
+
+I received an NSERC discovery grant to fund my research in causal inference. 
+
 Winter 2023
 
 Links to two videos of presentations I've given recently:
