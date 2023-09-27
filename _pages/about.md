@@ -15,7 +15,7 @@ News
 
 Fall 2023
 
-I am currently teaching a new graduate course in the Department of Mathematics and Statistics at UdeM, called Méthodes d'analyse biostatistique (STT6510) in which we go over methods for longitudinal data, for survival analyses, and an introduction to causal inference.
+I am currently teaching a new graduate course in the Department of Mathematics and Statistics at UdeM, called Méthodes d'analyse biostatistique (STT6510) in which we go over the theory and application of methods for longitudinal data, survival analyses, and an introduction to causal inference.
 
 Happy to report that my research is now funded by an NSERC discovery grant!
 
