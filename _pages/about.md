@@ -15,7 +15,7 @@ News
 
 Fall 2023
 
-Happy to report that my research is now funded by an NSERC discovery grant until 2028!
+Happy to report that my research is now funded by an NSERC discovery grant!
 
 Winter 2023
 
