@@ -15,7 +15,7 @@ News
 
 Fall 2023
 
-I received an NSERC discovery grant to fund my research in causal inference. 
+Happy to report that my research is now funded by an NSERC discovery grant until 2028!
 
 Winter 2023
 
