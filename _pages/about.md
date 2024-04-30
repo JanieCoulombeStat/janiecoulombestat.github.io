@@ -10,7 +10,7 @@ redirect_from:
 
 My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more ressources on R codes and other material.
 
-News
+Nouvelles
 ======
 
 Printemps 2024
