@@ -15,7 +15,7 @@ Nouvelles
 
 Automne 2024
 
-Je suis très heureuse d'avoir reçu une bourse découverte Banting-INCASS pour financer un projet de recherche en collaboration avec le prof. Tianze Jiao et l'Université de la Floride sur les temps de visite optimaux pour des patients faisant de l'hypertension (travail en cours).
+Je suis très heureuse d'avoir reçu une bourse découverte Banting-INCASS pour financer un projet de recherche en collaboration avec le prof. Tianze Jiao de l'Université de la Floride sur les temps de visite optimaux pour des patients faisant de l'hypertension (travail en cours).
 
 Printemps 2024
 
