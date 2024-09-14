@@ -1,7 +1,8 @@
 ---
 permalink: /portfolio/
 title: "Supervision d'étudiants"
-excerpt: " "
+layout: archive
+author_profile: true
 ---
 
 
