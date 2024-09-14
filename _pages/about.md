@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Bienvenue/Welcome!"
 excerpt: " "
 author_profile: true
 redirect_from: 
@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more ressources on R codes and other material.
+Ma page github <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contient davantage de ressources en R et d'autre matériel reliés à mes publications.
 
 Nouvelles
 ======
+
+Automne 2024
+
+Je suis très heureuse d'avoir reçu une bourse découverte Banting-INCASS pour financer un projet de recherche en collaboration avec le prof. Tianze Jiao et l'Université de la Floride sur les temps de visite optimaux pour des patients faisant de l'hypertension (travail en cours).
 
 Printemps 2024
 
