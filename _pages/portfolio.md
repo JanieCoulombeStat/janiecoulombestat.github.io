@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio
+permalink: /portfolio/
 title: "Supervision d'étudiants"
 excerpt: " "
 ---
