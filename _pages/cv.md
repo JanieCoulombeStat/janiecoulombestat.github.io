@@ -22,8 +22,9 @@ Work experience (selected)
 * June 2022- : Assistant Professor
   * Department of Mathematics and Statistics, Université de Montréal
   * Courses taught:
-  * Fall 2022: STT1700
-  * Winter 2023: STT3781
+  * Fall 2022 and Winter 2024: STT1700 Introduction à la statistique (Premier cycle, ~1ère année)
+  * Winter 2023 and Winter 2024: STT3781 Laboratoire de statistique (Premier cycle, ~3e année)
+  * Fall 2023: STT6510 Méthodes d'analyse en biostatistique (Cycles supérieurs)
 
 * Winter 2022: Lecturer
   * Department of Epidemiology, Biostatistics and Occupational Health, McGill University
@@ -51,6 +52,7 @@ Work experience (selected)
  
 Awards
 ======
+* Banting-CANSSI Discovery Award (2024), by the Banting Foundation in collaboration with CANSSI 
 * Award for excellence in teaching Biostatistics (2022), Given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS), McGill University.
 * Pierre Robillard Award (2022), Statistical Society of Canada. Best PhD thesis in a statistics-related field in Canada that year.
 * McGill MedStar Award (2021), McGill University. A research excellence award.
