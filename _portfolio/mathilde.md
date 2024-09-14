@@ -1,6 +1,6 @@
 ---
 title: "Mathilde Dicaire-Cartier"
-excerpt: "Undergraduate student (B. Sc. May 2023)"
+excerpt: "Stage d'été (2023); Étudiante à la maîtrise en statistique sous ma supervision (2023-)."
 collection: portfolio
 ---
 
