@@ -10,6 +10,8 @@ author_profile: true
 * Paguidame Sambiani (2023-, co-supervisé avec Philippe Gagnon)
 
 <b>Maîtrise<b/>
+* Yuka Kato (2024-)
+* Zong Yang Yu (2024-)
 * Mathilde Dicaire-Cartier (2023-)
 
 <b>Premier cycle<b/>
