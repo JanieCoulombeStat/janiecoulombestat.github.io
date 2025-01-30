@@ -23,7 +23,7 @@ Work experience (selected)
   * Department of Mathematics and Statistics, Université de Montréal
   * Courses taught:
   * Fall 2022 and Winter 2024: STT1700 Introduction à la statistique (Premier cycle, ~1ère année)
-  * Winter 2023 and Winter 2024: STT3781 Laboratoire de statistique (Premier cycle, ~3e année)
+  * Winter 2023, 2024 and 2025: STT3781 Laboratoire de statistique (Premier cycle, ~3e année)
   * Fall 2023: STT6510 Méthodes d'analyse en biostatistique (Cycles supérieurs)
 
 * Winter 2022: Lecturer
@@ -71,6 +71,7 @@ Publications (chronological order)
     
 Service and leadership
 ======
+*2024-2025: Organisation du deuxième colloque francophone interfacultaire de recherche en biostatistique (CFIRB) avec la co-Présidente Miceline Mésidor
 * 2023-2024: Organisation du premier colloque francophone interfacultaire de recherche en biostatistique (CFIRB) avec la co-Présidente Mireille Schnitzer
 * 2022-2023: Pierre Robillard Award Committee (Statistical Society of Canada)
 * 2019-2021: Chair of the Student and Recent Graduate Committee (SARGC) of the Statistical Society of Canada (SSC) (Mandate ended on June 30, 2021) 
