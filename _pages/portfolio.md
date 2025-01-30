@@ -12,10 +12,11 @@ author_profile: true
 <b>Maîtrise<b/>
 * Yuka Kato (2024-, co-supervisée avec Mireille Schnitzer)
 * Zong Yang Yu (2024-)
-* Mathilde Dicaire-Cartier (2023-)
+* Mathilde Dicaire-Cartier (2023-2025)
 
 <b>Premier cycle<b/>
-* Si Ming Xu (2024, stage d'été subventionné CRSNG)
+* Léane Lebel (2025, stage d'été)
+* Si Ming Xu (2024, stage d'été subventionné CRSNG; 2025, stage d'été)
 * Yuka Kato (2024, stage d'été co-supervisé avec Mireille Schnitzer)
 * Emiliano Aviles Astorga (2024, stage d'été supervisé avec Mireille Schnitzer et Cong Jiang)
 * Zong Yang Yu (2023, stage d'été subventionné CRSNG)
