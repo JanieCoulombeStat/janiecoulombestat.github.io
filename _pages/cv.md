@@ -71,7 +71,7 @@ Publications (chronological order)
     
 Service and leadership
 ======
-*2024-2025: Organisation du deuxième colloque francophone interfacultaire de recherche en biostatistique (CFIRB) avec la co-Présidente Miceline Mésidor
+* 2024-2025: Organisation du deuxième colloque francophone interfacultaire de recherche en biostatistique (CFIRB) avec la co-Présidente Miceline Mésidor
 * 2023-2024: Organisation du premier colloque francophone interfacultaire de recherche en biostatistique (CFIRB) avec la co-Présidente Mireille Schnitzer
 * 2022-2023: Pierre Robillard Award Committee (Statistical Society of Canada)
 * 2019-2021: Chair of the Student and Recent Graduate Committee (SARGC) of the Statistical Society of Canada (SSC) (Mandate ended on June 30, 2021) 
