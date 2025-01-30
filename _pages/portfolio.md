@@ -7,7 +7,7 @@ author_profile: true
 
 
 <b>Doctorat<b/>
-* Paguidame Sambiani (2023-, co-supervisé avec Philippe Gagnon)
+* Paguidame Sambiani (2024-, co-supervisé avec Philippe Gagnon)
 
 <b>Maîtrise<b/>
 * Yuka Kato (2024-, co-supervisée avec Mireille Schnitzer)
