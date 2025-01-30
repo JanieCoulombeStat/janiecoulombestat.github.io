@@ -23,6 +23,7 @@ author_profile: true
 * Mathilde Dicaire-Cartier (2023, stage d'été)
 
 Photo prise en 2024:
+
  <img src="/images/grouppic.jpg" width="600" />
 
 De gauche à droite: Zong Yang Yu, Si Ming Xu, Emiliano Aviles Astorga, Janie, Mathilde Dicaire-Cartier, Paguidame Sambiani.
