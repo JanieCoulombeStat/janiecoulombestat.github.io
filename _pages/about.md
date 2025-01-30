@@ -13,9 +13,16 @@ Ma page github <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Sta
 Nouvelles
 ======
 
+Hiver 2025
+
+Je suis heureuse d'annoncer un financement des IRSC de 359,552$ sur 4 ans comme co-investigatrice principale avec ma collègue Dre Christel Renoux, investigatrice principale, de l'Hôpital Général Juif et Université McGill, sur le projet intitulé "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories."
+
+*Colloque*
+Le 10 août 2025 se tiendra la deuxième édition du Colloque Francophone Interfacultaire de Recherche en Biostatistique (CFIRB 2025) au CRCHUM à Montréal. C'est le jour précédant la conférence biennale de la CSEB. Au plaisir de vous y trouver ! Plus de détails au https://www.crmath.ca/activites/#/type/activity/id/4028. L'équipe organisatrice, Leslie Kouam, Kossi Clément Trenou, Mathilde Dicaire-Cartier, Fatim Ka, Miceline Médisor, Janie Coulombe.
+
 Automne 2024
 
-Je suis très heureuse d'avoir reçu une bourse découverte Banting-INCASS pour financer un projet de recherche en collaboration avec le prof. Tianze Jiao de l'Université de la Floride sur les temps de visite optimaux pour des patients faisant de l'hypertension (travail en cours).
+Je suis très heureuse d'avoir reçu une bourse découverte Banting-INCASS pour financer un projet de recherche en collaboration avec le prof. Tianze Jiao de l'Université de la Floride sur les temps de visite optimaux pour des patients faisant de l'hypertension. Mise à jour janvier 2025: Un des manuscrits résultants de cette bourse vient d'être déposé sur ArXiv sous le titre: Constructing optimal dynamic monitoring and treatment regimes: An application to hypertension care".
 
 Printemps 2024
 
