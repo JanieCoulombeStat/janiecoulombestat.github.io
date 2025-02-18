@@ -13,7 +13,7 @@ Ma page github <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Sta
 Nouvelles / News 
 ======
 
-Hiver 2025 / Winter 2025
+**Hiver 2025** / Winter 2025
 
 Je suis heureuse d'annoncer un financement des IRSC de 359,552$ sur 4 ans comme co-investigatrice principale avec ma collègue Dre Christel Renoux, investigatrice principale, de l'Hôpital Général Juif et Université McGill, sur le projet intitulé "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories." /  I am pleased to announce CIHR funding of $359,552 over 4 years as co-principal investigator with my colleague Dr. Christel Renoux, principal investigator, from the Jewish General Hospital and McGill University, on the project entitled "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories."
 
