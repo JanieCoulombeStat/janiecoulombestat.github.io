@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Ma page github <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contient davantage de ressources en R et d'autre matériel reliés à mes publications.** / My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more R resources and other material related to my publications.
+**Ma page github <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contient davantage de ressources en R et d'autre matériel reliés à mes publications.** 
+
+My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more R resources and other material related to my publications.
 
 Nouvelles / News 
 ======
