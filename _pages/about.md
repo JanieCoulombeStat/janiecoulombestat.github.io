@@ -15,11 +15,13 @@ My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Sta
 Nouvelles / News 
 ======
 
+
 **Hiver 2025** / Winter 2025
 
 **Je suis heureuse d'annoncer un financement des IRSC de 359,552$ sur 4 ans comme co-investigatrice principale avec ma collègue Dre Christel Renoux, investigatrice principale, de l'Hôpital Général Juif et Université McGill, sur le projet intitulé "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories."** 
 
 I am pleased to announce CIHR funding of $359,552 over 4 years as co-principal investigator with my colleague Dr. Christel Renoux, principal investigator, from the Jewish General Hospital and McGill University, on the project entitled "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories."
+
 
 ***Colloque*** / *Colloquium*
 
@@ -27,11 +29,13 @@ I am pleased to announce CIHR funding of $359,552 over 4 years as co-principal i
 
 On August 10, 2025, the second edition of the Colloque Francophone Interfacultaire de Recherche en Biostatistique (CFIRB 2025) will be held at the CRCHUM in Montreal. It is the day before the CSEB biennial conference. Looking forward to seeing you there! More details at https://www.crmath.ca/activites/#/type/activity/id/4028. The organizing team, Leslie Kouam, Kossi Clément Trenou, Mathilde Dicaire-Cartier, Fatim Ka, Miceline Médisor, Janie Coulombe.
 
+
 **Automne 2024** / Fall 2024
 
 **Je suis très heureuse d'avoir reçu une bourse découverte Banting-INCASS pour financer un projet de recherche en collaboration avec le prof. Tianze Jiao de l'Université de la Floride sur les temps de visite optimaux pour des patients faisant de l'hypertension. Mise à jour janvier 2025: Un des manuscrits résultants de cette bourse vient d'être déposé sur ArXiv sous le titre: Constructing optimal dynamic monitoring and treatment regimes: An application to hypertension care".**
 
 I am very pleased to have been awarded a Banting-INCASS Discovery Grant to fund a research project in collaboration with Prof. Tianze Jiao from the University of Florida on optimal visit times for patients with hypertension. Update January 2025: One of the manuscripts resulting from this grant has just been deposited on ArXiv under the title: Constructing optimal dynamic monitoring and treatment regimes: An application to hypertension care".
+
 
 **Printemps 2024** / Spring 2024
 
@@ -39,11 +43,13 @@ I am very pleased to have been awarded a Banting-INCASS Discovery Grant to fund 
 
 I am very happy to become a Junior 1 FRQS research fellow for the next 4 years. My research program focuses on statistical methods of causal inference for data measured irregularly over time.
 
+
 ***Colloque*** / *Colloquium*
 
 **Le 14 juin 2024, nous tiendrons le premier colloque francophone interfacultaire de recherche en biostatistique (CFIRB) à l'école de santé publique de l'Université de Montréal. L'événement est organisé par un comité de 4 étudiants gradués et quelques professeures en biostatistique. Il est financé en partie par le centre de recherches mathématiques-STATLAB, l'INCASS, l'ISM et la Faculté de Pharmacie de l'UdeM. Vous pouvez vous inscrire gratuitement en suivant le lien https://www.crmath.ca/activites/#/type/activity/id/3944 .** 
 
 On June 14, 2024, we will hold the first colloque francophone interfacultaire de recherche en biostatistique (CFIRB) at the School of Public Health of the University of Montreal. The event is organized by a committee of 4 graduate students and a few professors in biostatistics. It is funded in part by the mathematical research center-STATLAB, INCASS, ISM and the Faculty of Pharmacy of UdeM. You can register for free by following the link https://www.crmath.ca/activites/#/type/activity/id/3944 .
+
 
 **Automne 2023** / Fall 2023
 
@@ -51,9 +57,11 @@ On June 14, 2024, we will hold the first colloque francophone interfacultaire de
 
 I am currently teaching a new graduate course in the Department of Mathematics and Statistics at UdeM, called Méthodes d'analyse biostatistique (STT6510) in which we go over the theory and application of methods for longitudinal data, survival analyses, and an introduction to causal inference.
 
+
 **Je suis heureuse d’annoncer que mes recherches sont désormais financées par une subvention à la découverte du CRSNG !**
 
 Happy to report that my research is now funded by an NSERC discovery grant!
+
 
 **Hiver 2023** / Winter 2023
 
@@ -65,11 +73,13 @@ Links to two videos of presentations I've given recently:
 
 2. **Au CRCHU Québec sur <a href="https://www.youtube.com/watch?v=rSsb2NREEyE"> les diagrammes causaux</a>** At CRCHU Quebec on <a href="https://www.youtube.com/watch?v=rSsb2NREEyE"> causal diagrams</a> .      
 
+
 **Automne 2022** / Fall 2022
 
 **J'ai récemment reçu le Prix d'excellence en enseignement de la biostatistique 2021-2022 à l'Université McGill, un prix décerné par les étudiants du Département d'épidémiologie, de biostatistique et de santé au travail et décerné par l'Association des étudiants en épidémiologie, biostatistique et santé au travail (EBOSS). J'en suis extrêmement reconnaissante ! Merci à EBOSS et à la Prof Erica Moodie qui a partagé avec moi les notes de cours pour BIOS602.**
 
 I recently received the 2021-2022 Award for Excellence in Teaching Biostatistics at McGill University, an Award voted by the students in the Department of Epidemiology, Biostatistics and Occupational Health and given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS). I am super grateful for that! Thanks to EBOSS and Dr. Erica Moodie who shared course notes with me for the course BIOS602.
+
 
 **Printemps 2022** / Spring 2022
 
@@ -81,6 +91,7 @@ I am thrilled to announce that I will start a new position of Assistant Professo
 
 I recently received the Pierre Robillard Award 2022, an Award given by the Statistical Society of Canada that "recognizes the best PhD thesis defended at a Canadian university in a given year and written in the fields covered by The Canadian Journal of Statistics" (https://ssc.ca/en/award/pierre-robillard-award). 
 
+
 **Automne 2021** / Fall 2021
 
 **En septembre 2021, j'ai commencé un stage postdoctoral à l'Université McGill en collaboration avec la professeure Erica E. M. Moodie au Département d'épidémiologie, de biostatistique et de santé au travail.**
@@ -90,6 +101,7 @@ I recently received the Pierre Robillard Award 2022, an Award given by the Stati
 In September 2021, I started a postdoctoral fellowship at McGill University working in collaboration with Professor Erica E. M. Moodie in the Department of Epidemiology, Biostatistics and Occupational Health.  
 
 In the Fall 2021, I was supposed to visit North Carolina State University (NCSU) for 6 months as a research scholar and to work in the Department of Statistics under the supervision of Professor Marie Davidian. Due to the covid19 pandemic, my collaboration turned to virtual. I am very pleased to have had this opportunity.  
+
 
 Intérêts de recherche / Research interests
 =====
@@ -115,6 +127,7 @@ Other broad interests are in semiparametric theory (multiply robust estimators),
 Besides my doctoral and more methodological research, in 2019-2020, I have had the chance to be involved on a <a href="https://janiecoulombestat.github.io/publication/2020-10-08-paper-2-ADDrugs">project</a> in which we developed an optimal adaptive treatment strategy for patients suffering with depression. That rule was developed with the aim to choose between citalopram and fluoxetine (two commonly prescribed antidepressant drugs) based on patients' characteristics. See the <a href="https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaa261/6028713?searchresult=1">commentary</a> by Drs Shiner and Watts and our <a href="https://janiecoulombestat.github.io/publication/2020-12-04-paper-3-Response-AD">response</a>, as well as a link to the  <a href="https://reporter.mcgill.ca/individual-patients-arent-average-patients-personalized-approaches-to-depression/">McGill Reporter</a> short interview.  
 
 More details on previous publications can be found on my <a href="https://scholar.google.com/citations?user=UmVoZQwAAAAJ&hl=fr&oi=ao">Google Scholar account</a>. Please feel free to touch base if you would be interested in a collaboration!
+
 
 Formation / Background
 ======
