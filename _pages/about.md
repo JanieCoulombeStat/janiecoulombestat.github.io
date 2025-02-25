@@ -29,7 +29,8 @@ $~$
 
 On August 10, 2025, the second edition of the Colloque Francophone Interfacultaire de Recherche en Biostatistique (CFIRB 2025) will be held at the CRCHUM in Montreal. It is the day before the CSEB biennial conference. Looking forward to seeing you there! More details at https://www.crmath.ca/activites/#/type/activity/id/4028. The organizing team, Leslie Kouam, Kossi Clément Trenou, Mathilde Dicaire-Cartier, Fatim Ka, Miceline Médisor, Janie Coulombe.
 
-&nbsp; 
+</br>
+
 **Automne 2024** / Fall 2024
 
 **Je suis très heureuse d'avoir reçu une bourse découverte Banting-INCASS pour financer un projet de recherche en collaboration avec le prof. Tianze Jiao de l'Université de la Floride sur les temps de visite optimaux pour des patients faisant de l'hypertension. Mise à jour janvier 2025: Un des manuscrits résultants de cette bourse vient d'être déposé sur ArXiv sous le titre: Constructing optimal dynamic monitoring and treatment regimes: An application to hypertension care".**
