@@ -19,6 +19,7 @@ My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Sta
 Nouvelles / News 
 ======
 
+&nbsp;
 
 **Hiver 2025** / Winter 2025
 
