@@ -12,7 +12,7 @@ redirect_from:
 
 My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more R resources and other material related to my publications.
 
-</br>
+&nbsp;
 
 Nouvelles / News 
 ======
@@ -24,7 +24,7 @@ Nouvelles / News
 
 I am pleased to announce CIHR funding of $359,552 over 4 years as co-principal investigator with my colleague Dr. Christel Renoux, principal investigator, from the Jewish General Hospital and McGill University, on the project entitled "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories."
 
-</br>
+&nbsp;
 
 $~$
 ***Colloque*** / *Colloquium*
@@ -33,7 +33,7 @@ $~$
 
 On August 10, 2025, the second edition of the Colloque Francophone Interfacultaire de Recherche en Biostatistique (CFIRB 2025) will be held at the CRCHUM in Montreal. It is the day before the CSEB biennial conference. Looking forward to seeing you there! More details at https://www.crmath.ca/activites/#/type/activity/id/4028. The organizing team, Leslie Kouam, Kossi Clément Trenou, Mathilde Dicaire-Cartier, Fatim Ka, Miceline Médisor, Janie Coulombe.
 
-</br>
+&nbsp;
 
 **Automne 2024** / Fall 2024
 
@@ -42,7 +42,7 @@ On August 10, 2025, the second edition of the Colloque Francophone Interfacultai
 I am very pleased to have been awarded a Banting-INCASS Discovery Grant to fund a research project in collaboration with Prof. Tianze Jiao from the University of Florida on optimal visit times for patients with hypertension. Update January 2025: One of the manuscripts resulting from this grant has just been deposited on ArXiv under the title: Constructing optimal dynamic monitoring and treatment regimes: An application to hypertension care".
 
 
-</br>
+&nbsp;
 
 **Printemps 2024** / Spring 2024
 
@@ -50,7 +50,7 @@ I am very pleased to have been awarded a Banting-INCASS Discovery Grant to fund 
 
 I am very happy to become a Junior 1 FRQS research fellow for the next 4 years. My research program focuses on statistical methods of causal inference for data measured irregularly over time.
 
-</br>
+&nbsp;
 
 $~$
 ***Colloque*** / *Colloquium*
@@ -60,7 +60,7 @@ $~$
 On June 14, 2024, we will hold the first colloque francophone interfacultaire de recherche en biostatistique (CFIRB) at the School of Public Health of the University of Montreal. The event is organized by a committee of 4 graduate students and a few professors in biostatistics. It is funded in part by the mathematical research center-STATLAB, INCASS, ISM and the Faculty of Pharmacy of UdeM. You can register for free by following the link https://www.crmath.ca/activites/#/type/activity/id/3944 .
 
 
-</br>
+&nbsp;
 
 **Automne 2023** / Fall 2023
 
@@ -69,14 +69,14 @@ On June 14, 2024, we will hold the first colloque francophone interfacultaire de
 I am currently teaching a new graduate course in the Department of Mathematics and Statistics at UdeM, called Méthodes d'analyse biostatistique (STT6510) in which we go over the theory and application of methods for longitudinal data, survival analyses, and an introduction to causal inference.
 
 
-</br>
+&nbsp;
 
 **Je suis heureuse d’annoncer que mes recherches sont désormais financées par une subvention à la découverte du CRSNG !**
 
 Happy to report that my research is now funded by an NSERC discovery grant!
 
 
-</br>
+&nbsp;
 
 **Hiver 2023** / Winter 2023
 
@@ -90,7 +90,7 @@ Links to two videos of presentations I've given recently:
 2. **Au CRCHU Québec sur <a href="https://www.youtube.com/watch?v=rSsb2NREEyE"> les diagrammes causaux</a>** At CRCHU Quebec on <a href="https://www.youtube.com/watch?v=rSsb2NREEyE"> causal diagrams</a> .      
 
 
-</br>
+&nbsp;
 
 **Automne 2022** / Fall 2022
 
@@ -99,7 +99,7 @@ Links to two videos of presentations I've given recently:
 I recently received the 2021-2022 Award for Excellence in Teaching Biostatistics at McGill University, an Award voted by the students in the Department of Epidemiology, Biostatistics and Occupational Health and given by the Epidemiology, Biostatistics and Occupational Health Student Society (EBOSS). I am super grateful for that! Thanks to EBOSS and Dr. Erica Moodie who shared course notes with me for the course BIOS602.
 
 
-</br>
+&nbsp;
 
 **Printemps 2022** / Spring 2022
 
@@ -112,7 +112,7 @@ I am thrilled to announce that I will start a new position of Assistant Professo
 I recently received the Pierre Robillard Award 2022, an Award given by the Statistical Society of Canada that "recognizes the best PhD thesis defended at a Canadian university in a given year and written in the fields covered by The Canadian Journal of Statistics" (https://ssc.ca/en/award/pierre-robillard-award). 
 
 
-</br>
+&nbsp;
 
 **Automne 2021** / Fall 2021
 
@@ -125,7 +125,7 @@ In September 2021, I started a postdoctoral fellowship at McGill University work
 In the Fall 2021, I was supposed to visit North Carolina State University (NCSU) for 6 months as a research scholar and to work in the Department of Statistics under the supervision of Professor Marie Davidian. Due to the covid19 pandemic, my collaboration turned to virtual. I am very pleased to have had this opportunity.  
 
 
-</br>
+&nbsp;
 
 Intérêts de recherche / Research interests
 =====
@@ -153,7 +153,7 @@ Besides my doctoral and more methodological research, in 2019-2020, I have had t
 More details on previous publications can be found on my <a href="https://scholar.google.com/citations?user=UmVoZQwAAAAJ&hl=fr&oi=ao">Google Scholar account</a>. Please feel free to touch base if you would be interested in a collaboration!
 
 
-</br>
+&nbsp;
 
 Formation / Background
 ======
