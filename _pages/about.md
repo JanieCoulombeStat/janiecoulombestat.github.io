@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 &nbsp;
+
 **Ma page github <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contient des ressources en R et autre matériel en lien avec mes publications.** 
 
 My github page <a href="https://github.com/JanieCoulombeStat">(JanieCoulombe Stat)</a> contains more R resources and other material related to my publications.
