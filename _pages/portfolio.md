@@ -10,6 +10,7 @@ author_profile: true
 * Paguidame Sambiani (2024-, co-supervisé avec Philippe Gagnon)
 
 <b>Maîtrise<b/>
+* Sheilla Joseph (2024-, co-supervisée avec Marie-Pierre Sylvestre)
 * Yuka Kato (2024-, co-supervisée avec Mireille Schnitzer)
 * Zong Yang Yu (2024-)
 * Mathilde Dicaire-Cartier (2023-2025)
