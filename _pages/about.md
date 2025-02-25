@@ -81,8 +81,7 @@ Happy to report that my research is now funded by an NSERC discovery grant!
 **Liens vers des vidéos de présentations données récemment** 
 
 Links to two videos of presentations I've given recently:
-
-</br>
+ 
 
 1. **Pour le Club Math de l'Université de Montréal sur <a href="https://www.youtube.com/watch?v=V0G6iSJHFwc"> une introduction à l'inférence causale</a>** / For the Club Math at Université de Montréal on <a href="https://www.youtube.com/watch?v=V0G6iSJHFwc"> an Introduction to causal inference</a> .
 
