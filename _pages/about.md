@@ -22,6 +22,8 @@ Nouvelles / News
 
 I am pleased to announce CIHR funding of $359,552 over 4 years as co-principal investigator with my colleague Dr. Christel Renoux, principal investigator, from the Jewish General Hospital and McGill University, on the project entitled "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories."
 
+</br>
+
 $~$
 ***Colloque*** / *Colloquium*
 
@@ -46,6 +48,8 @@ I am very pleased to have been awarded a Banting-INCASS Discovery Grant to fund 
 
 I am very happy to become a Junior 1 FRQS research fellow for the next 4 years. My research program focuses on statistical methods of causal inference for data measured irregularly over time.
 
+</br>
+
 $~$
 ***Colloque*** / *Colloquium*
 
@@ -63,6 +67,8 @@ On June 14, 2024, we will hold the first colloque francophone interfacultaire de
 I am currently teaching a new graduate course in the Department of Mathematics and Statistics at UdeM, called Méthodes d'analyse biostatistique (STT6510) in which we go over the theory and application of methods for longitudinal data, survival analyses, and an introduction to causal inference.
 
 
+</br>
+
 **Je suis heureuse d’annoncer que mes recherches sont désormais financées par une subvention à la découverte du CRSNG !**
 
 Happy to report that my research is now funded by an NSERC discovery grant!
@@ -75,6 +81,8 @@ Happy to report that my research is now funded by an NSERC discovery grant!
 **Liens vers des vidéos de présentations données récemment** 
 
 Links to two videos of presentations I've given recently:
+
+</br>
 
 1. **Pour le Club Math de l'Université de Montréal sur <a href="https://www.youtube.com/watch?v=V0G6iSJHFwc"> une introduction à l'inférence causale</a>** / For the Club Math at Université de Montréal on <a href="https://www.youtube.com/watch?v=V0G6iSJHFwc"> an Introduction to causal inference</a> .
 
