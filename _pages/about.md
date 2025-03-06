@@ -24,9 +24,9 @@ Nouvelles / News
 
 **Printemps 2025** / Spring 2025
 
-**Merci à IVADO pour l'octroi de 57,500$ pour notre projet "New method for precision medicine with count outcomes that addresses informative censoring: Improving the quality of care for individuals with multiple sclerosis" dans le cadre de leurs Projets exploratoires. Cette demande était faite en collaboration avec ma co-investigatrice principale Miceline Mésidor de l'INRS et nos merveilleuses collaboratrices Mireille Schnitzer (UDEM) et Christel Renoux (McGill U et Hôpital Général Juif).** 
+**Merci à IVADO pour l'octroi de 57,500$ pour notre projet "New method for precision medicine with count outcomes that addresses informative censoring: Improving the quality of care for individuals with multiple sclerosis" dans le cadre de leur programme appelé Projets exploratoires. Cette demande était faite en collaboration avec ma co-investigatrice principale Miceline Mésidor de l'INRS et nos merveilleuses collaboratrices Mireille Schnitzer (UDEM) et Christel Renoux (McGill U et Hôpital Général Juif).** 
 
-Huge thanks to IVADO for awarding $57,500 for our project "New method for precision medicine with count outcomes that addresses informative censoring: Improving the quality of care for individuals with multiple sclerosis" as part of their Exploratory Projects. This grants application was made in collaboration with my co-principal investigator Miceline Mésidor from INRS and our wonderful collaborators Mireille Schnitzer (UDEM) and Christel Renoux (McGill U and Jewish General Hospital).
+Huge thanks to IVADO for awarding $57,500 for our project "New method for precision medicine with count outcomes that addresses informative censoring: Improving the quality of care for individuals with multiple sclerosis" as part of their program called Exploratory Projects. This grants application was made in collaboration with my co-principal investigator Miceline Mésidor from INRS and our wonderful collaborators Mireille Schnitzer (UDEM) and Christel Renoux (McGill U and Jewish General Hospital).
 
 &nbsp;
 
