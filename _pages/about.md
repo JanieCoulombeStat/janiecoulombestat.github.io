@@ -21,6 +21,17 @@ Nouvelles / News
 
 &nbsp;
 
+
+**Printemps 2025** / Spring 2025
+
+**Merci à IVADO pour l'octroi de 57,500$ pour notre projet "New method for precision medicine with count outcomes that addresses informative censoring: Improving the quality of care for individuals with multiple sclerosis" dans le cadre de leurs Projets exploratoires 2024. Cette demande était faite en collaboration avec ma co-investigatrice principale Miceline Mésidor de l'INRS et nos merveilleuses collaboratrices Mireille Schnitzer (UDEM) et Christel Renoux (McGill U et Hôpital Général Juif).** 
+
+Huge thanks to IVADO for awarding $57,500 for our project "New method for precision medicine with count outcomes that addresses informative censoring: Improving the quality of care for individuals with multiple sclerosis" as part of their 2024 Exploratory Projects. This grants application was made in collaboration with my co-principal investigator Miceline Mésidor from INRS and our wonderful collaborators Mireille Schnitzer (UDEM) and Christel Renoux (McGill U and Jewish General Hospital).
+
+&nbsp;
+
+$~$
+
 **Hiver 2025** / Winter 2025
 
 **Je suis heureuse d'annoncer un financement des IRSC de 359,552$ sur 4 ans comme co-investigatrice principale avec ma collègue Dre Christel Renoux, investigatrice principale, de l'Hôpital Général Juif et Université McGill, sur le projet intitulé "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories."** 
