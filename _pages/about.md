@@ -31,7 +31,6 @@ Huge thanks to IVADO for awarding $57,500 for our project "New method for precis
 &nbsp;
 
 $~$
-
 **Hiver 2025** / Winter 2025
 
 **Je suis heureuse d'annoncer un financement des IRSC de 359,552$ sur 4 ans comme co-investigatrice principale avec ma collègue Dre Christel Renoux, investigatrice principale, de l'Hôpital Général Juif et Université McGill, sur le projet intitulé "Towards equitable hypertension care: sex differences in blood pressure targets, variability and trajectories."** 
