@@ -16,7 +16,7 @@ author_profile: true
 * Mathilde Dicaire-Cartier (2023-2025)
 
 <b>Premier cycle<b/>
-* Léane Lebel (2025, stage d'été)
+* Léane Lebel (2025, stage d'été subventionné CRSNG)
 * Si Ming Xu (2024, stage d'été subventionné CRSNG; 2025, stage d'été)
 * Yuka Kato (2024, stage d'été co-supervisé avec Mireille Schnitzer)
 * Emiliano Aviles Astorga (2024, stage d'été supervisé avec Mireille Schnitzer et Cong Jiang)
