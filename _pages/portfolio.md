@@ -7,7 +7,8 @@ author_profile: true
 
 
 <b>Doctorat<b/>
-* Paguidame Sambiani (2024-, co-supervisé avec Philippe Gagnon)
+* Sadrack Amadou (2025-, co-supervisé avec Miceline Mésidor)
+* Paguidame Sambiani (2024-, co-supervisé avec Philippe Gagnon, Boursier excellence de l'ISM)
 
 <b>Maîtrise<b/>
 * Sheilla Joseph (2024-, co-supervisée avec Marie-Pierre Sylvestre)
