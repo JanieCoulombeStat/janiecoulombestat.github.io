@@ -17,7 +17,7 @@ author_profile: true
 * Mathilde Dicaire-Cartier (2023-2025)
 
 <b>Premier cycle<b/>
-* Léane Lebel (2025, stage d'été subventionné CRSNG, son rapport de stage se trouve <a href="[https://github.com/JanieCoulombeStat](https://github.com/JanieCoulombeStat/L-ane_Stage-t-/blob/main/Rapport%20de%20stage.pdf)">ici</a>.
+* Léane Lebel (2025, stage d'été subventionné CRSNG, son rapport de stage se trouve <a href="https://github.com/JanieCoulombeStat/L-ane_Stage-t-">ici</a>).
 * Si Ming Xu (2024, stage d'été subventionné CRSNG; 2025, stage d'été)
 * Yuka Kato (2024, stage d'été co-supervisé avec Mireille Schnitzer)
 * Emiliano Aviles Astorga (2024, stage d'été supervisé avec Mireille Schnitzer et Cong Jiang)
