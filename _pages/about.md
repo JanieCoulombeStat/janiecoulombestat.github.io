@@ -21,6 +21,17 @@ Nouvelles / News
 
 &nbsp;
 
+**Fall 2025 / Automne 2025
+
+**Je suis heureuse de devenir une chercheuse IVADO pour les 5 prochaines années. 
+
+I am happy to become an IVADO researcher for the next 5 years.
+
+**Été 2025 / Summer 2025
+
+**Je suis très heureuse de devenir membre des groupes TG5 (Study Design) et TG7 (Causal inference) du groupe de chercheurs internationaux STRATOS (https://stratos-initiative.org/). L'objectif du groupe est d'offrir une ligne directrice accessible et précise pour la planification et l'analyse d'études observationnelles. 
+
+I am very happy to become a STRATOS member in TG5 and TG7 topic groups (Study Design and Causal inference). This is an international group of researchers with the objective of providing accurate and accessible guidance for the design and analysis of observational studies. More details at https://stratos-initiative.org/.  
 
 **Printemps 2025** / Spring 2025
 
