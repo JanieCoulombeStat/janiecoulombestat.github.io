@@ -21,7 +21,7 @@ Nouvelles / News
 
 &nbsp;
 
-**Fall 2025** / Automne 2025
+**Automne 2025** / Fall 2025
 
 **Je suis heureuse de devenir une chercheuse IVADO pour les 5 prochaines années.**
 
