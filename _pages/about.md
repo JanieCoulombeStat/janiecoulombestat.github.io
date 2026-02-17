@@ -27,11 +27,15 @@ Nouvelles / News
 
 I am pleased to announce CIHR funding of $240,000 over 4 years as co-principal investigator with my colleague, prof. Miceline Mésidor from INRS, principal investigator, on the project entitled "Optimizing Multiple Sclerosis Care Through real-World Data Insights". 
 
+&nbsp;
+
 **Automne 2025** / Fall 2025
 
 **Je suis heureuse de devenir une chercheuse IVADO pour les 5 prochaines années.**
 
 I am happy to become an IVADO researcher for the next 5 years.
+
+&nbsp;
 
 **Été 2025** / Summer 2025
 
