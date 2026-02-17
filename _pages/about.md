@@ -63,7 +63,6 @@ I am pleased to announce CIHR funding of $359,552 over 4 years as co-principal i
 
 &nbsp;
 
-$~$
 **Colloque** / *Colloquium*
 
 **Le 10 août 2025 se tiendra la deuxième édition du Colloque Francophone Interfacultaire de Recherche en Biostatistique (CFIRB 2025) au CRCHUM à Montréal. C'est le jour précédant la conférence biennale de la CSEB. Au plaisir de vous y trouver ! Plus de détails au https://www.crmath.ca/activites/#/type/activity/id/4028. L'équipe organisatrice, Leslie Kouam, Kossi Clément Trenou, Mathilde Dicaire-Cartier, Fatim Ka, Miceline Médisor, Janie Coulombe.** 
