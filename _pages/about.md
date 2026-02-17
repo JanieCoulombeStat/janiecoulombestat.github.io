@@ -21,6 +21,12 @@ Nouvelles / News
 
 &nbsp;
 
+**Hiver 2026** / Winter 2026
+
+**Je suis heureuse d'annoncer un financement des IRSC de 240,000$ sur 4 ans comme co-investigatrice principale avec ma collègue, prof. Miceline Mésidor de l'INRS, investigatrice principale, sur le projet intitulé "Optimizing Multiple Sclerosis Care Through real-World Data Insights."** 
+
+I am pleased to announce CIHR funding of $240,000 over 4 years as co-principal investigator with my colleague, prof. Miceline Mésidor from INRS, principal investigator, on the project entitled "Optimizing Multiple Sclerosis Care Through real-World Data Insights". 
+
 **Automne 2025** / Fall 2025
 
 **Je suis heureuse de devenir une chercheuse IVADO pour les 5 prochaines années.**
