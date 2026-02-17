@@ -89,7 +89,6 @@ I am very happy to become a Junior 1 FRQS research fellow for the next 4 years. 
 
 &nbsp;
 
-$~$
 ***Colloque*** / *Colloquium*
 
 **Le 14 juin 2024, nous tiendrons le premier colloque francophone interfacultaire de recherche en biostatistique (CFIRB) à l'école de santé publique de l'Université de Montréal. L'événement est organisé par un comité de 4 étudiants gradués et quelques professeures en biostatistique. Il est financé en partie par le centre de recherches mathématiques-STATLAB, l'INCASS, l'ISM et la Faculté de Pharmacie de l'UdeM. Vous pouvez vous inscrire gratuitement en suivant le lien https://www.crmath.ca/activites/#/type/activity/id/3944 .** 
