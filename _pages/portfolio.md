@@ -12,7 +12,7 @@ author_profile: true
 
 <b>Maîtrise<b/>
 * Sheilla Joseph (2024-, co-supervisée avec Marie-Pierre Sylvestre)
-* Yuka Kato (2024-, co-supervisée avec Mireille Schnitzer)
+* Yuka Kato (2024-2026, co-supervisée avec Mireille Schnitzer)
 * Zong Yang Yu (2024-)
 * Mathilde Dicaire-Cartier (2023-2025)
 
