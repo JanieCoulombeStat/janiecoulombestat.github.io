@@ -14,7 +14,7 @@ author_profile: true
 * Sheilla Joseph (2024-, co-supervisée avec Marie-Pierre Sylvestre)
 * Yuka Kato (2024-2026, co-supervisée avec Mireille Schnitzer)
 * Zong Yang Yu (2024-)
-* Mathilde Dicaire-Cartier (2023-2025) - Maintenant candidate au doctorat à l'Université LMU au Institute for Medical Information Processing, Biometry and Epidemiology, Allemagne)
+* Mathilde Dicaire-Cartier (2023-2025) - Maintenant candidate au doctorat à l'Université LMU Munich au Institute for Medical Information Processing, Biometry and Epidemiology)
 
 <b>Premier cycle<b/>
 * Léane Lebel (2025, stage d'été subventionné CRSNG, son rapport de stage se trouve <a href="https://github.com/JanieCoulombeStat/L-ane_Stage-t-/blob/main/Rapport%20de%20stage.pdf">ici</a>; 2026, stage d'été subventionné CRSNG).
