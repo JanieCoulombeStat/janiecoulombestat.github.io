@@ -7,7 +7,7 @@ author_profile: true
 
 
 <b>Doctorat<b/>
-* Florian Dudoreau Siaken (2026-, co-superviseure; superviseur principal est le prof. Denis Talbot, U. Laval) 
+* Florian Dudoreau Siaken (2026-, co-superviseure; superviseur principal est le prof. Denis Talbot) 
 * Sadrack Amadou (2025-, co-supervisé avec prof. Miceline Mésidor)
 * Paguidame Sambiani (2024-, Boursier excellence de l'ISM, co-supervisé avec prof. Philippe Gagnon)
 
