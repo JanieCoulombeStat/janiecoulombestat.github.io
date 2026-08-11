@@ -9,6 +9,7 @@ author_profile: true
 <b>Doctorat<b/>
 * Sadrack Amadou (2025-, co-supervisé avec Miceline Mésidor)
 * Paguidame Sambiani (2024-, Boursier excellence de l'ISM, co-supervisé avec Philippe Gagnon)
+* Florian Dudoreau Siaken (2026-, co-superviseure; superviseur principal est le prof. Denis Talbot, U. Laval) 
 
 <b>Maîtrise<b/>
 * Sheilla Joseph (2024-, co-supervisée avec Marie-Pierre Sylvestre)
