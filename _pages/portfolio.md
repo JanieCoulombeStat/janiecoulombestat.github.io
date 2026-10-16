@@ -14,7 +14,7 @@ author_profile: true
 <b>Maîtrise<b/>
 * Sheilla Joseph (2024-, co-supervisée avec Marie-Pierre Sylvestre)
 * Zong Yang Yu (2024-)
-* Yuka Kato (2024-2026, co-supervisée avec Mireille Schnitzer)
+* Yuka Kato (2024-2026, co-supervisée avec Mireille Schnitzer - son mémoire se trouve <a href="https://umontreal.scholaris.ca/items/5b06dbc5-e2cd-48c5-a74f-5d364709e8c1">ici</a>)
 * Mathilde Dicaire-Cartier (2023-2025) - Maintenant candidate au doctorat à l'Université LMU Munich au Institute for Medical Information Processing, Biometry and Epidemiology - son mémoire se trouve <a href="https://umontreal.scholaris.ca/items/66900672-e3be-4d5c-b93b-3d577c668583">ici</a>)
 
 <b>Premier cycle<b/>
