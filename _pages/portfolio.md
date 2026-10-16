@@ -30,7 +30,7 @@ Photo prise en 2026:
 
  <img src="/images/gang2026.png" width="600" />
 
-De gauche à droite: Lisa Bahane Cijanda, Zong Yang Yu, Léane Lebel, Paguidame Sambiani, Emiliano Aviles Astorga, Si Ming Xu, (en bas) Janie. Ne pouvaient être présents: Sadrack Amadou, Sheilla Joseph.
+De gauche à droite: Lisa Bahane Cijanda (stagiaire en visite de l'ULB), Zong Yang Yu (supervisé à la MSc), Léane Lebel (stagiaire d'été), Paguidame Sambiani (supervisé au PhD), Emiliano Aviles Astorga (anciennement supervisé), Si Ming Xu (stagiaire d'été), (en bas) Janie. Ne pouvaient être présents: Sadrack Amadou, Sheilla Joseph.
 
 
 Photo prise en 2024:
