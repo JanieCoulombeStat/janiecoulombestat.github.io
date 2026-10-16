@@ -25,6 +25,14 @@ author_profile: true
 * Zong Yang Yu (2023, stage d'été subventionné CRSNG)
 * Mathilde Dicaire-Cartier (2023, stage d'été)
 
+
+Photo prise en 2026:
+
+ <img src="/images/gang2026.png" width="600" />
+
+De gauche à droite: Lisa Bahane Cijanda, Zong Yang Yu, Léane Lebel, Paguidame Sambiani, Emiliano Aviles Astorga, Si Ming Xu, (en bas) Janie. Ne pouvaient être présents: Sadrack Amadou, Sheilla Joseph.
+
+
 Photo prise en 2024:
 
  <img src="/images/grouppic.jpg" width="600" />
