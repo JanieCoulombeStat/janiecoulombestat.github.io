@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Publications on this website are not always up to date. I invite you to look at my Google Scholar account (link on the left column) for more details.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
