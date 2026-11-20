@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: "Supervision d'étudiants"
+title: "Laboratoire / Supervision d'étudiants"
 layout: archive
 author_profile: true
 ---
