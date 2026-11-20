@@ -24,10 +24,7 @@ Work experience (selected)
   * Courses taught:
   * Fall 2022 and Winter 2024: STT1700 Introduction à la statistique (Premier cycle, ~1ère année)
   * Winter 2023, 2024 and 2025: STT3781 Laboratoire de statistique (Premier cycle, ~3e année)
-  * Fall 2023: STT6510 Méthodes d'analyse en biostatistique (Cycles supérieurs)
-  * Winter 2024: STT1700 Introduction à la statistique (Premier cycle, ~1ère année), STT3781 Laboratoire de statistique (Premier cycle, ~3e année)
-  * Winter 2025: STT3781 Laboratoire de statistique (Premier cycle, ~3e année)
-  * Fall 2026: STT6510 Méthodes d'analyse en biostatistique (Cycles supérieurs)
+  * Fall 2023 and 2026: STT6510 Méthodes d'analyse en biostatistique (Cycles supérieurs)
 
 * Winter 2022: Lecturer
   * Department of Epidemiology, Biostatistics and Occupational Health, McGill University
