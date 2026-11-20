@@ -26,6 +26,10 @@ author_profile: true
 * Mathilde Dicaire-Cartier (2023, stage d'été)
 
 
+<b>Stagiaires et assistants de recherche<b/>
+* Jean-Michel Bou-Rjeily (2026-, assistant de recherche)
+* Lisa Maëlle Bahane Cijanda (2026, stagiaire de recherche de l'Université Libre de Bruxelles)
+
 Photo prise en 2026:
 
  <img src="/images/gang2026.png" width="600" />
