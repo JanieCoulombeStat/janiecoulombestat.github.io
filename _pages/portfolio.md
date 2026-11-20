@@ -28,6 +28,7 @@ author_profile: true
 
 <b>Stagiaires et assistants de recherche<b/>
 * Jean-Michel Bou-Rjeily (2026-, assistant de recherche)
+* Yan Liu (2026-, assistante de recherche)
 * Lisa Maëlle Bahane Cijanda (2026, stagiaire de recherche de l'Université Libre de Bruxelles)
 
 Photo prise en 2026:
